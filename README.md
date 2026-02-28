@@ -1,3 +1,5 @@
+[![Playwright Tests](https://github.com/jobouri97/playwright-hybrid-qa/actions/workflows/ci.yml/badge.svg)](https://github.com/jobouri97/playwright-hybrid-qa/actions/workflows/ci.yml)
+
 # Playwright Hybrid Automation Project (UI + API)
 
 ## 📌 Overview
